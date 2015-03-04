@@ -1,0 +1,24 @@
+utf-8;134217984SA
+NT ne WA
+NT ne SA
+NT ne Q
+SA ne WA
+SA ne NT
+SA ne Q
+SA ne NSW
+SA ne V
+Q ne NT
+Q ne SA
+Q ne NSW
+NSW ne SA
+NSW ne Q
+NSW ne V
+V ne SA
+V ne NSW
+WA lt 3
+NT lt 3
+SA lt 3
+Q lt 3
+NSW lt 3
+V lt 3
+T lt 3
